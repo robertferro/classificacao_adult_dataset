@@ -2,4 +2,5 @@
 
 Neste notebook irei classificar clientes pela renda, de acordo com os dados de entrada.
 
-O objetivo é idenficar uma classe com mais chance de comprar determinado tipo de produto.
+O objetivo é idenficar uma classe com mais chance de comprar determinado tipo de produto de acordo com a classificação pela renda.
+
